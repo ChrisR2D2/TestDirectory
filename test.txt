@@ -3,5 +3,7 @@ test en ligne
 test en ligne 2
 
 Test en local. 
-
+Résolution des conflits :-(
 Test en ligne avant pull.
+
+ecriture sur la surface!
